@@ -1,19 +1,19 @@
-### Hi there 👋
+## 👋 Hi, I'm Anisur Rahman Arzu
 
-<!--
-**anisurarzu/anisurarzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Software Engineer specializing in building scalable and reusable UI components.
 
-Here are some ideas to get you started:
+🔹 Skilled in HTML, CSS, JavaScript, React, and modern UI architecture  
+🔹 Focused on design systems, responsive UI, and performance  
+🔹 Experience translating Figma designs into production-ready interfaces  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisurarzu&show_icons=true&theme=dracula)
-[![trophy](https://github-profile-trophy.vercel.app/?username=anisurarzu)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Featured Projects
 
+- 🔗 ERP Dashboard System – React-based complex UI system  
+- 🔗 Booking System UI – Responsive and user-friendly interface  
+- 🔗 Data Visualization Platform – Dashboard with reusable components  
+
+## 🌐 Portfolio
+👉 https://anisurarzu.xyz/
+
+## 📫 Contact
+📧 anisurarzu@gmail.com
