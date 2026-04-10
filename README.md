@@ -1,19 +1,31 @@
 ## 👋 Hi, I'm Anisur Rahman Arzu
 
-Frontend Software Engineer specializing in building scalable and reusable UI components.
+Frontend Software Engineer with 4+ years of experience building scalable, user-friendly web applications and component-based UI systems.
 
-🔹 Skilled in HTML, CSS, JavaScript, React, and modern UI architecture  
-🔹 Focused on design systems, responsive UI, and performance  
-🔹 Experience translating Figma designs into production-ready interfaces  
+### 💡 About Me
+- Experienced in building modern frontend applications using React, Next.js, and JavaScript  
+- Strong focus on reusable UI components, design systems, and clean architecture  
+- Skilled in translating Figma designs into production-ready, responsive interfaces  
+- Passionate about performance, usability, and scalable frontend systems  
 
-## 🚀 Featured Projects
+### 🚀 Featured Work
+- **ERP System (EBS-365)**  
+  Complex data-driven UI with forms, dashboards, and role-based workflows  
 
-- 🔗 ERP Dashboard System – React-based complex UI system  
-- 🔗 Booking System UI – Responsive and user-friendly interface  
-- 🔗 Data Visualization Platform – Dashboard with reusable components  
+- **Fast Track Booking System**  
+  Responsive booking platform with real-time API integration  
 
-## 🌐 Portfolio
+- **DMF Foundation Platform**  
+  Dashboard-based system with reusable components and data visualization  
+
+### 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
+**State Management:** Redux, Context API  
+**Backend & APIs:** Node.js, Express.js, REST APIs  
+**Tools:** Git, Docker, CI/CD, Linux  
+
+### 🌐 Portfolio
 👉 https://anisurarzu.xyz/
 
-## 📫 Contact
-📧 anisurarzu@gmail.com
+### 📫 Contact
+📧 anisurarzu@gmail.com  
