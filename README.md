@@ -68,17 +68,65 @@ I specialize in **JavaScript ecosystem (React, Next.js, Node.js)** and building 
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Pinned Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anisurarzu&show_icons=true&theme=radical" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisurarzu&theme=radical" />
-</p>
+### 🏢 ERP System (EBS-365)
+Enterprise Resource Planning system with modules like Inventory, Finance, and Merchandising. Built with scalable architecture and optimized performance for real-world usage.  
+🟢 React ⚙️ .NET Core 🗄️ SQL Server ☁️ AWS  
+
+</td>
+
+<td width="50%">
+
+### 🎓 DMF Platform
+Full-stack education & charity management system including admission workflows, donation tracking, and quiz system.  
+🟢 React ⚙️ Node.js 🗄️ MongoDB 🎨 Tailwind  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏨 Hospitality Management System
+Hotel + POS + ERP system with booking, billing, inventory, and analytics dashboard features.  
+🟢 React ⚙️ Node.js 🗄️ MongoDB  
+
+</td>
+
+<td width="50%">
+
+### 📊 Admin Dashboard System
+Modern dashboard with reusable components, data visualization, and workflow-based UI.  
+🟢 React 🎨 Tailwind ⚙️ REST API  
+
+</td>
+</tr>
+</table>
 
 ---
+
+## ❤️ Ranking, Views & Followers
+
+<p align="center">
+  <a href="https://github.com/anisurarzu">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anisurarzu&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ## ✨ Quote
 
