@@ -1,6 +1,6 @@
 <!-- 🔥 HERO IMAGE (MAIN BANNER) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anisurarzu/assets/main/banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/anisurarzu/anisurarzu/blob/main/ChatGPT%20Image%20May%204,%202026,%2009_33_51%20PM.png?raw=true" />
 </p>
 
 ---
