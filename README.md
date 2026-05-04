@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anisur+Rahman+Arzu;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js" />
 </p>
 
-<p align="center">
-  🚀 Building scalable ERP & SaaS systems | 🇩🇪 Germany Ready Developer
-</p>
-
----
 
 <!-- 🔥 MAIN INTRO + EXPERIENCE -->
 <table>
@@ -81,14 +76,6 @@ I specialize in **JavaScript ecosystem (React, Next.js, Node.js)** and building 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisurarzu&theme=radical" />
-</p>
-
----
-
-## 🧠 Tech Stack Icons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git" />
 </p>
 
 ---
