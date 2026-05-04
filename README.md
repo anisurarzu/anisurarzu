@@ -1,37 +1,35 @@
-## Hi 👋, I am Anisur Rahman
-
-Full Stack Software Engineer with **4+ years of experience** building scalable web applications, ERP systems, and workflow-based business platforms. Strong expertise in **JavaScript, TypeScript, React.js, Next.js, Node.js, REST APIs**, and databases like **MongoDB, SQL Server, PostgreSQL**.
-
-Experienced in designing maintainable architectures, improving performance, and collaborating with cross-functional teams to deliver high-quality software solutions. Passionate about **clean code, SaaS products, and modern web technologies**.
-
----
-
-### 💻 Tech Expertise
-
-- 💡 **Programming:** JavaScript, TypeScript  
-- 🎨 **Frontend:** React.js, Next.js, Tailwind CSS  
-- ⚙️ **Backend:** Node.js, Express.js  
-- 🗄️ **Database:** MongoDB, SQL Server, PostgreSQL  
-- 🔗 **API:** REST API, Integration, Async Data Handling  
-- 🧠 **AI Tools:** Cursor, Claude (AI-assisted development)  
-- 🐳 **DevOps & Tools:** Git, Docker, Linux, CI/CD  
-- 📊 **Domain:** ERP Systems, Workflow Apps, Business Tools  
+<!-- 🔥 HERO IMAGE (MAIN BANNER) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anisurarzu/assets/main/banner.png" alt="banner" width="100%" />
+</p>
 
 ---
 
-### 🤝 Connect with me
+<!-- 👋 INTRO -->
+<h1 align="center">Hi 👋, I'm Anisur Rahman</h1>
+<h3 align="center">🚀 Full Stack Developer | React | Next.js | Node.js</h3>
 
-- 💼 LinkedIn: YOUR_LINKEDIN  
-- 📧 Email: anisurarzu@gmail.com  
-- 🌐 Portfolio: YOUR_PORTFOLIO  
-- 📱 Phone: +49 15511807283  
+<p align="center">
+  💻 Building scalable web apps <br/>
+  🌱 Learning AI & System Design <br/>
+  🎯 Target: Software Engineer in Germany 🇩🇪
+</p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ⚡ TECH BADGES (LIKE FLOATING ICON STYLE) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+</p>
 
-- 🔭 I’m currently working on **Full Stack Applications & ERP Systems**
-- 🌱 I’m learning **AI, System Design, Scalable Architecture**
-- 🚀 Interested in **SaaS products & modern web solutions**
-- 📂 Projects available on **GitHub**
-- ⚡ Fun fact: I love playing Football ⚽
+---
+
+<!-- 🔥 ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+%7C+Next.js+Expert;Building+Real+Projects;Always+Learning&center=true&width=500&height=50">
+</p>
