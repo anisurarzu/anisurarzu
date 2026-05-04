@@ -59,22 +59,13 @@ I specialize in **JavaScript ecosystem (React, Next.js, Node.js)** and building 
 - ⚡ Fun fact: I love playing Football ⚽  
 
 ---
-
-## 🚀 Featured Projects
-
-- 🏢 **ERP System (EBS-365)**  
-- 🎓 **Education & Charity Platform (DMF)**  
-- 🏨 **Hospitality Management System (Hotel + POS + ERP)**  
-
----
-
 ## 📌 Pinned Repositories
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 ERP System (EBS-365)
+### 🏢 <a href="YOUR_ERP_REPO_LINK">ERP System (EBS-365)</a>
 Enterprise Resource Planning system with modules like Inventory, Finance, and Merchandising. Built with scalable architecture and optimized performance for real-world usage.  
 🟢 React ⚙️ .NET Core 🗄️ SQL Server ☁️ AWS  
 
@@ -82,7 +73,7 @@ Enterprise Resource Planning system with modules like Inventory, Finance, and Me
 
 <td width="50%">
 
-### 🎓 DMF Platform
+### 🎓 <a href="YOUR_DMF_REPO_LINK">DMF Platform</a>
 Full-stack education & charity management system including admission workflows, donation tracking, and quiz system.  
 🟢 React ⚙️ Node.js 🗄️ MongoDB 🎨 Tailwind  
 
@@ -92,7 +83,7 @@ Full-stack education & charity management system including admission workflows, 
 <tr>
 <td width="50%">
 
-### 🏨 Hospitality Management System
+### 🏨 <a href="YOUR_HOSPITALITY_REPO_LINK">Hospitality Management System</a>
 Hotel + POS + ERP system with booking, billing, inventory, and analytics dashboard features.  
 🟢 React ⚙️ Node.js 🗄️ MongoDB  
 
@@ -100,7 +91,7 @@ Hotel + POS + ERP system with booking, billing, inventory, and analytics dashboa
 
 <td width="50%">
 
-### 📊 Admin Dashboard System
+### 📊 <a href="YOUR_DASHBOARD_REPO_LINK">Admin Dashboard System</a>
 Modern dashboard with reusable components, data visualization, and workflow-based UI.  
 🟢 React 🎨 Tailwind ⚙️ REST API  
 
@@ -127,7 +118,3 @@ Modern dashboard with reusable components, data visualization, and workflow-base
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anisurarzu&label=Profile%20Views&color=blue&style=flat" />
 </p>
-
-## ✨ Quote
-
-> "Consistency is what transforms average into excellence."
