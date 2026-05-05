@@ -59,6 +59,7 @@ I specialize in **JavaScript ecosystem (React, Next.js, Node.js)** and building 
 - ⚡ Fun fact: I love playing Football ⚽  
 
 ---
+
 ## 📌 Pinned Repositories
 
 <table>
@@ -66,7 +67,7 @@ I specialize in **JavaScript ecosystem (React, Next.js, Node.js)** and building 
 <td width="50%">
 
 ### 🏢 <a href="YOUR_ERP_REPO_LINK">ERP System (EBS-365)</a>
-Enterprise Resource Planning system with modules like Inventory, Finance, and Merchandising. Built with scalable architecture and optimized performance for real-world usage.  
+Enterprise Resource Planning (ERP) system with modules like Inventory, Finance, and Merchandising. Designed for real-world business workflows with scalable architecture and performance optimization.  
 🟢 React ⚙️ .NET Core 🗄️ SQL Server ☁️ AWS  
 
 </td>
@@ -74,7 +75,7 @@ Enterprise Resource Planning system with modules like Inventory, Finance, and Me
 <td width="50%">
 
 ### 🎓 <a href="YOUR_DMF_REPO_LINK">DMF Platform</a>
-Full-stack education & charity management system including admission workflows, donation tracking, and quiz system.  
+Full-stack education & charity management system with admission workflows, donation tracking, quiz system, and reporting tools. Built for scalable operations and user-friendly experience.  
 🟢 React ⚙️ Node.js 🗄️ MongoDB 🎨 Tailwind  
 
 </td>
@@ -84,16 +85,18 @@ Full-stack education & charity management system including admission workflows, 
 <td width="50%">
 
 ### 🏨 <a href="YOUR_HOSPITALITY_REPO_LINK">Hospitality Management System</a>
-Hotel + POS + ERP system with booking, billing, inventory, and analytics dashboard features.  
+Comprehensive hotel + POS + ERP solution including booking management, billing, inventory control, and analytics dashboard for operational insights.  
 🟢 React ⚙️ Node.js 🗄️ MongoDB  
 
 </td>
 
 <td width="50%">
 
-### 📊 <a href="YOUR_DASHBOARD_REPO_LINK">Admin Dashboard System</a>
-Modern dashboard with reusable components, data visualization, and workflow-based UI.  
-🟢 React 🎨 Tailwind ⚙️ REST API  
+### 🎓 <a href="https://github.com/anisurarzu/go-beyond-client-pannel">E-Learning Platform (GoBeyond)</a>
+Full-stack Learning Management System (LMS) featuring interactive dashboards, student progress tracking, and course management. Designed with modern UI/UX and scalable backend architecture for real-world SaaS applications.  
+
+🟢 Next.js ⚙️ Node.js 🗄️ PostgreSQL 🔗 Prisma 🧠 TypeScript 🎨 Tailwind  
+🌐 <a href="https://v0-e-learning-dashboard-design-eta.vercel.app/">Live Demo</a> | 💻 <a href="https://github.com/anisurarzu/go-beyond-client-pannel">Frontend</a> | ⚙️ <a href="https://github.com/anisurarzu/goBeyondServer">Backend</a>
 
 </td>
 </tr>
