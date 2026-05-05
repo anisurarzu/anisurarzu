@@ -74,9 +74,11 @@ Enterprise Resource Planning (ERP) system with modules like Inventory, Finance, 
 
 <td width="50%">
 
-### 🎓 <a href="YOUR_DMF_REPO_LINK">DMF Platform</a>
-Full-stack education & charity management system with admission workflows, donation tracking, quiz system, and reporting tools. Built for scalable operations and user-friendly experience.  
-🟢 React ⚙️ Node.js 🗄️ MongoDB 🎨 Tailwind  
+### 🎓 <a href="https://github.com/anisurarzu/Darul-Muttaquine">DMF Platform (Darul Muttaquine)</a>
+Full-stack education & charity management platform built for a non-profit organization, supporting student admission workflows, donation management, event handling, and financial tracking. Designed to streamline real-world operations with scalable architecture and user-friendly experience.  
+
+🟢 React ⚙️ Node.js 🌐 Express 🗄️ MongoDB 🔥 Firebase 🎨 Tailwind 🧩 Ant Design  
+🌐 <a href="https://ourdmf.com/">Live Platform</a> | 💻 <a href="https://github.com/anisurarzu/Darul-Muttaquine">Frontend</a> | ⚙️ <a href="https://github.com/anisurarzu/Darul-Muttaquine-Server">Backend</a>
 
 </td>
 </tr>
