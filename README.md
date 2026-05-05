@@ -64,13 +64,7 @@ I specialize in **JavaScript ecosystem (React, Next.js, Node.js)** and building 
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏢 <a href="YOUR_ERP_REPO_LINK">ERP System (EBS-365)</a>
-Enterprise Resource Planning (ERP) system with modules like Inventory, Finance, and Merchandising. Designed for real-world business workflows with scalable architecture and performance optimization.  
-🟢 React ⚙️ .NET Core 🗄️ SQL Server ☁️ AWS  
-
-</td>
 
 <td width="50%">
 
@@ -79,6 +73,16 @@ Full-stack education & charity management platform built for a non-profit organi
 
 🟢 React ⚙️ Node.js 🌐 Express 🗄️ MongoDB 🔥 Firebase 🎨 Tailwind 🧩 Ant Design  
 🌐 <a href="https://ourdmf.com/">Live Platform</a> | 💻 <a href="https://github.com/anisurarzu/Darul-Muttaquine">Frontend</a> | ⚙️ <a href="https://github.com/anisurarzu/Darul-Muttaquine-Server">Backend</a>
+
+</td>
+
+<td width="50%">
+
+### 📱 <a href="https://github.com/anisurarzu/dmfApp">DMF Mobile App</a>
+Cross-platform mobile application developed for the DMF Platform, enabling students and users to access educational services, track activities, and interact with platform features on mobile devices. Designed for scalability and seamless integration with the backend system.  
+
+🟢 React Native ⚙️ Node.js 🗄️ MongoDB 🌐 Express 🧠 TypeScript  
+🚧 Upcoming on Google Play Store | 💻 <a href="https://github.com/anisurarzu/dmfApp">Source Code</a>
 
 </td>
 </tr>
