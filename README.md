@@ -86,9 +86,11 @@ Full-stack education & charity management platform built for a non-profit organi
 <tr>
 <td width="50%">
 
-### 🏨 <a href="YOUR_HOSPITALITY_REPO_LINK">Hospitality Management System</a>
-Comprehensive hotel + POS + ERP solution including booking management, billing, inventory control, and analytics dashboard for operational insights.  
-🟢 React ⚙️ Node.js 🗄️ MongoDB  
+### 🏨 <a href="https://github.com/anisurarzu/HotelSeaShore-Client">Hospitality Management System (SeaShore)</a>
+Full-stack hospitality management platform for hotel operations, including room booking, reservation management, billing system, and operational workflows. Designed for real-world business usage with scalable architecture and modern UI for seamless user experience.  
+
+🟢 Next.js ⚙️ Node.js 🌐 Express 🗄️ MongoDB 🎨 Tailwind ☁️ Render  
+🌐 <a href="https://hotelseashorebd.com/">Live Platform</a> | 💻 <a href="https://github.com/anisurarzu/HotelSeaShore-Client">Frontend</a> | ⚙️ <a href="https://github.com/anisurarzu/HotelSeaShore-Server">Backend</a>
 
 </td>
 
