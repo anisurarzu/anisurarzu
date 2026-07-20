@@ -11,7 +11,7 @@ Building production ERP, SaaS, and e-commerce systems with React, Next.js, and N
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anisurarzu.xyz-111?style=flat&logo=vercel&logoColor=white)](https://anisurarzu.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anisurrahman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisurrahman)
-[![Email](https://img.shields.io/badge/Email-anisurrahman.arzu%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anisurrahman.arzu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anisurarzu%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anisurarzu@gmail.com)
 [![Website](https://img.shields.io/badge/Live-shoprootora.com-16a34a?style=flat&logo=shopify&logoColor=white)](https://shoprootora.com)
 
 </div>
@@ -92,7 +92,7 @@ Building production ERP, SaaS, and e-commerce systems with React, Next.js, and N
 
 I’m focused on **scalable product engineering** — clean architecture, fast UIs, and systems that hold up in production.
 
-📫 **Email:** [anisurrahman.arzu@gmail.com](mailto:anisurrahman.arzu@gmail.com)  
+📫 **Email:** [anisurarzu@gmail.com](mailto:anisurarzu@gmail.com)  
 🔗 **Portfolio:** [anisurarzu.xyz](https://anisurarzu.xyz)  
 💼 **LinkedIn:** [linkedin.com/in/anisurrahman](https://www.linkedin.com/in/anisurrahman)  
 💬 **WhatsApp:** [+49 155 1180 7283](https://wa.me/4915511807283)
